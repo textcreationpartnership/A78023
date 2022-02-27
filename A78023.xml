@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Meditations upon 1 Sam. 26. 19. Humbly presented to the Common-Councel of London, for their serious rumination. / By their servant for their good, Henry Burton.</title>
+            <author>Burton, Henry, 1578-1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78023</idno>
+            <idno type="STC">Wing B6167</idno>
+            <idno type="STC">Thomason E399_24</idno>
+            <idno type="STC">ESTC R201725</idno>
+            <idno type="EEBO-CITATION">99862224</idno>
+            <idno type="PROQUEST">99862224</idno>
+            <idno type="VID">160388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78023)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160388)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Meditations upon 1 Sam. 26. 19. Humbly presented to the Common-Councel of London, for their serious rumination. / By their servant for their good, Henry Burton.</title>
+                  <author>Burton, Henry, 1578-1648.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 1st xxvi, 19 --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160388:1" rendition="simple:additions"/>
+            <p>MEDITATIONS Upon 1 <hi>Sam.</hi> 26.19. Humbly preſented to the COMMON-COUNCEL OF <hi>LONDON,</hi> For their ſerious rumination.</p>
+            <p>By their ſervant for their good, HENRY BURTON.</p>
+            <q>
+               <bibl>ROM 15.4.</bibl>
+               <p>Whatſoever things were written afore-time, were writ<g ref="char:EOLhyphen"/>ten for our learning.</p>
+            </q>
+            <q>
+               <bibl>ISAI. 9.16.</bibl>
+               <p>The leaders of this people cauſe them to erre; and they that are led of them, are deſtroyed.</p>
+               <p>If ye know theſe things, happie are ye, if ye do them.</p>
+            </q>
+            <p>LONDON, Printed for <hi>Giles Calvert.</hi> 1647.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:160388:2"/>
+            <pb facs="tcp:160388:2"/>
+            <head>To the Right Honourable the Lord Maior, with the Right Worſhipful the Aldermen, and the reſt of the Common Councel of the City of <hi>London,</hi> Grace, Mercy and Wiſdom be multiplied.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat I, of ſo ſmall acquaintance with you, yet to you all not altogether unknown, ſhould preſent you with any ſuch ſervice as this, though it may ſeem to ſome too much pre<g ref="char:EOLhyphen"/>ſumption, yet not to any (I hope) either ar<g ref="char:EOLhyphen"/>rogancy, or importunate impertinency at this time, as being not unſeaſonable for Truth, at leaſt to the wiſe, no not in this ſo idolized adulatory Age, which as, a mel dew hath ſo much blaſted both our bloſſoms with blackneſſe, and our fruit with barrenneſſe. And though for ſome reſpects I may worſt do it, yet having by the good Providence of Heaven ſpent the beſt part of my life in this famous City, and that alſo as an unworthy Watch-man therein, and not having at any time been negligent (with<g ref="char:EOLhyphen"/>in my narrow Sphere) to give warning when apparent dan<g ref="char:EOLhyphen"/>ger approached: I ſhould judge my ſelf very unfaithful, if <gap reason="illegible" resp="#UOM" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> laſt, being neer the time of giving up my account
+<pb facs="tcp:160388:3"/>to my righteous Judge, I ſhould be ſilent, eſpecially when I ſee a ſtorm hanging over this City from an angry heaven, and while there is yet ſome hope left of preventing of it. For if the Egyptians at <hi>Moſes</hi> his warning of the next morrows hideous ſtorm of hail, did, many of them, forth<g ref="char:EOLhyphen"/>with withdraw themſelves and cattle into their houſes for preſervation; then much more ſhould Chriſtians be wiſe in this point, and eſpecially when, not a <hi>Moſes,</hi> yet the meaneſt Meſſenger is ſent with a Meſſage from God, no leſſe true and certain then that of <hi>Moſes</hi> was, becauſe Gods Word it ſelf. And for the truth of what is here brought unto you, and how far, or how neer, or how truely it concern<g ref="char:EOLhyphen"/>eth you all in the application, I leave to your matureſt and moſt Chriſtian wiſdom to judge. And when this comes to be applied, either as a Preſervative or a Corroſive, if it be with patience endured, it is a hopeful ſigne of cure: if otherwiſe, yet in endeavouring the good I wiſh you, I have herein
+<note n="*" place="margin">Ezek. 3.17. to 21.</note> freed mine own ſoul. Nor durſt I forbear this duty at this time in a matter of ſo high importance, if well weighed, as wherein the weal or we of this Body, in refe<g ref="char:EOLhyphen"/>rence to the righteous Judge of all, is ſo much concerned.</p>
+            <p>
+               <hi>Conſider what</hi> is ſaid, <hi>and the Lord give you underſtanding in all things:</hi> Which is the humble and earneſt Prayer of</p>
+            <closer>
+               <signed>Your faithful ſervant in the Lord, HENRY BURTON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:160388:3"/>
+            <head>Meditations upon 1 <hi>Sam.</hi> 26.19. in theſe words: <hi>Now therefore, I pray thee, let my Lord the King hear the words of his ſervant: If the Lord hath ſtirred thee up againſt me, let him accept an offering: but if they be the children of men, curſed be they before the Lord: for they have driven me this day from abiding in the inheritance of the Lord, ſaying, Go ſerve other gods.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe words ſpake <hi>David</hi> at a good diſtance of ground to King <hi>Saul,</hi> when he was purſuing him, and newly after he had now again ſaved <hi>Sauls</hi> life, as he had done but a little before in the cave (1 <hi>Sam.</hi> 24.) And they are a part of his anſwer to <hi>Saul,</hi> who awaking from his dead ſleep (while <hi>David</hi> took him napping, with all his guard about him, ſo as <hi>Abiſhai,</hi> at <hi>Davids</hi> command, took onely <hi>Sauls</hi> ſpear, and pot of water at his head, having as good a will to have taken his life) and hearing <hi>Davids</hi> voice, ſaid un<g ref="char:EOLhyphen"/>to him. <hi>Is this thy voice, my ſon David?</hi> Who ſaid, <hi>It is my voice, my Lord O King. Wherefore doth my Lord thus purſue after his ſervant? For what have I done? or what evil is in my hand? Now therefore, I pray thee, let my Lord the King hear the words of his ſervant,</hi> &amp;c. So as (verſ. 18.) <hi>David</hi> pleads his innocency towards <hi>Saul;</hi> alſo his humility; alſo his fidelity and integrity, though the Lord had now the ſecond time cloſed this perſecuting tyrant into his hand, ſo as it was in his power to be revenged on him for all his murderous ha<g ref="char:EOLhyphen"/>tred,
+<pb n="2" facs="tcp:160388:4"/>and inſatiable malice in ſeeking and purſuing his life. And whereas <hi>David</hi> asks him here, <hi>What evil have I done?</hi> he might as well have ſaid, What good have I not done, that thou ſhouldſt thus requite me? I could but now have ſmit<g ref="char:EOLhyphen"/>ten thee with thine own ſpear, where with formerl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thou
+<note n="*" place="margin">1 Sam. 19.</note> at<g ref="char:EOLhyphen"/>temptedſt to ſmite me to the wall, when thou hadſt bound thy ſelf with an <hi>oath, not to ſlay me;</hi> yea, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd then alſo when I had again made a great <hi>ſlaughter</hi> of the <hi>Philiſtines</hi> thine enemies, whereby both thou and thy people were delivered. Thou cal<g ref="char:EOLhyphen"/>leſt me thy <hi>ſon,</hi> but haſt from the beginning uſed this relation as a ſnare to deſtroy me, and that by thoſe very enemies the Philiſtines, from wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m through my God I have ſo often deli<g ref="char:EOLhyphen"/>vered both thee and all Iſrael. <hi>Now therefore,
+<note n="*" place="margin">1 Sam. 24.12.</note> the Lord judge between me and thee, and the Lord avenge me of thee: but my band ſhall not be upon thee.</hi> And beſides all this, thou mayſt re<g ref="char:EOLhyphen"/>member how thou didſt confeſſe unto me with tears, when be<g ref="char:EOLhyphen"/>fore I ſpared thy life,
+<note n="*" place="margin">1 San. 14.17, 19. 1 Sam. 18.28</note> that I had <hi>rewarded thee good for evil,</hi> and <hi>that thou kneweſt well that the Lord was with me, and that I ſhould ſurely be king:</hi> wherefore then fighteſt thou againſt God, in thus hunting after a flea in the wilderneſſe?</p>
+            <p>But come we to <hi>Davids</hi> words here: He prays his purſuer and perſecutor, ſaying, <hi>Let my Lord the King hear the words of his ſervant.</hi> His preface for attention, imports weight in his words, being alſo ſpoken to a King; and as his ſpeech came from an humble heart, ſo it was full of charity, earneſtly ſeek<g ref="char:EOLhyphen"/>ing (if poſſible) <hi>Sauls</hi> ſound repentance at length, after ſo ma<g ref="char:EOLhyphen"/>ny backſlidings, from his ſolemn promiſes, and hypocritical proteſtations. Nor did <hi>David</hi> thus ſpeak for <hi>Saul</hi> onely, to deter him, but for all thoſe who either counſelled, or inſtiga<g ref="char:EOLhyphen"/>ted, or aſſiſted him either with their power, or with their
+<note n="*" place="margin">As the Z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph<g ref="char:EOLhyphen"/>ites, chap. 26.1. &amp; 23.19, 20.</note> of<g ref="char:EOLhyphen"/>ficiouſneſſe, in carrying tales to <hi>Saul</hi> where <hi>David</hi> hid himſelf from his fury, or through ungratefulneſſe would betray him into <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uls</hi> hand, whofe City he had but a few days before
+<note n="*" place="margin">As the men of Keilah, cha. 23 12.</note> delivered from the Philiſtines. And now, ye noble Citizens, let a better ſpirit move you to hearken to <hi>Davids</hi> words here then was in <hi>Saul,</hi> at leaſt in caſe you ſhall finde your ſelves no leſſe in ſome meaſure concerned in them.</p>
+            <p>For here we have <hi>David</hi> for a type of <hi>Chriſt,</hi> as <hi>Davids
+<pb n="3" facs="tcp:160388:4"/>Kingdom</hi> was a type of <hi>Chriſts Kingdom.</hi> And here we have <hi>Saul,</hi> a perſecuter of <hi>David</hi> for his <hi>Kingdoms</hi> ſake, a type of all perſecuring tyrants, and that under the name of King of <hi>Iſra<g ref="char:EOLhyphen"/>el,</hi> under the name of Chriſtian, or Proteſtant Religion, perſe<g ref="char:EOLhyphen"/>cuting the ſpiritual Kingdom, and free-born ſubjects,
+<note n="*" place="margin">Revel. 1.6.</note> yea, the Kings and Prieſts of Jeſus Chriſt, and all to uphold a tyra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nical, worldly and tranſitory kingdom. This tyrannical King <hi>Saul</hi> (according to <hi>Samuels</hi> prediction and deſcription of him, 1 <hi>Sam.</hi> 8.) with his ſervile and enſlaved people, ſo perſecute <hi>David</hi> and his from place to place, that they could now here reſt or breathe in their own native Country, but were driven to ſeek refuge even among their enemies, the <hi>Philiſtines,</hi> and that alſo at <hi>Gath,</hi> whoſe champion they had not yet forgotten to have been vanquiſhed by <hi>David,</hi> and their Army routed, and themſelves from time to time ſtill put to the worſt by <hi>David,</hi> whoſe very name was dreadful in all the land of the <hi>Phili<g ref="char:EOLhyphen"/>ſtines.</hi> So as it muſt needs be extreme neceſſity that ſhould drive <hi>David</hi> and his men to ſuch d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngerous exigences as theſe. Or ſuppoſe that <hi>Saul</hi> and his did not ſeek to take away <hi>Davids</hi> life; nor the life of thoſe Worthies with him, but threatned them onely, and were content they ſhould live and breathe in their own land,
+<note place="margin">Joſh. 9.</note> but in the ſame condition with the Gibeon<g ref="char:EOLhyphen"/>ites, to be <hi>bewers of wood and drawers of water to all the Con<g ref="char:EOLhyphen"/>gregation,</hi> but to be caſhiered, and for ever abandoned from and made incapable of all Offices of truſt or credit either in the Civil or Eccleſiaſtical State, and ſo to be made the vileſt and baſeſt of men, even <hi>the
+<note n="*" place="margin">1 Cor. 4.13.</note> filth of the world, and the off ſoouting of all things.</hi> Were not a life upon ſuch conditions infinitely more bitter and intolerable then the vileſt and cruelleſt death, eſpecially to noble and heroick ſpirits, and who had been ſo prodigal of their deareſt blood for the ſaving of their Cou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>try from Philiſtian Lordly domination? God for bid (you will ſay) that <hi>Saul</hi> and his ſhould ever have been ſo ingrateful and b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tiſhly minded, ſo to reward ſuch Worthies, that had ſo hig<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly deſerved of their native Country; and
+<note n="*" place="margin">Heb. 11.38.</note> 
+               <hi>whom the world was not worthy of.</hi> Certainly (moſt wontby Citizens) I am perſwaded, that not even in that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> modelled Common-Councel of <hi>London,</hi> out of which ſo many, honeſt, godly con<g ref="char:EOLhyphen"/>ſcientious
+<pb n="4" facs="tcp:160388:5"/>men have been lately ſequeſtred, yet any one is to be found therein, that would approve of <hi>Sauls</hi> practices againſt faithful <hi>David,</hi> that fought ſo gloriouſly for <hi>Iſrael,</hi> but that ſuch a one muſt needs be bereft and ſtript of his very naturals, and principles of humanity, having the
+<note n="*" place="margin">Dan.</note> heart of a beaſt, with his brains crackt; ſo void of all hope or imagination were it, to finde the leaſt atome of grace, Religion, or conſcience, other then deſperate atheiſm in ſuch a monſter, as being void of com<g ref="char:EOLhyphen"/>mon reaſon, ſhould he not be voided out of <hi>Common Councel?</hi> But I leave it to your more ſad conſideration, and proceed to the matter of <hi>Davids</hi> ſpeech to <hi>Saul.</hi>
+            </p>
+            <p>Which matter confiſts of two branches: 1. Concerning the Lord, 2. Concerning men. The firſt is in theſe words, <hi>If the Lord have ſtirred thee up againſt me, let him accept an offer<g ref="char:EOLhyphen"/>ing.</hi> The ſecond in theſe; <hi>But if they be the children of men, curſed be they before the Lord: for,</hi> &amp;c.</p>
+            <p>For the former of theſe: The Scripture teacheth us, that when Gods children, as <hi>David,</hi> are perſecuted by wicked men, as <hi>Saul,</hi> it is <hi>the Lord that ſtirreth up thoſe</hi> men againſt his peo<g ref="char:EOLhyphen"/>ple. Thus did the <hi>Lord ſtir up Pharaoh</hi> and the <hi>Egyptians</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Iſrael, Rom.</hi> 9.17. <hi>Exod.</hi> 9 16. <hi>Bſal.</hi> 105.25. And in ſo doing, the Lord uſeth the wicked as his rod, or ſword, or ſtaff, or ſawe, or ſuchlike inſtrument, wherewith to chaſtiſe his peo<g ref="char:EOLhyphen"/>ple, (as <hi>Iſa.</hi> 10.15.) when thoſe wicked in the mean time are immediately ſet on by their own malice. And the Lord, in ſo delivering his people into the hand of the wicked, as he doth it for the good of his children, ſo he doth it in wrath to their perſecutors. It is the greateſt judgement in the world, for men to be given up to the power of their own wills to afflict and oppreſſe Gods people, <hi>Gen.</hi> 15.13.14. <hi>Exod.</hi> 9.16. <hi>Iſa.</hi> 10.15, 16.</p>
+            <p>
+               <hi>Obj.</hi> But hath not the Lord a diſpoſing and over-ruling hand in all things that are done? <hi>Is there evil in the City and the Lord hath not done it?</hi> How then is it ſaid here, <hi>If the Lord hath ſtir<g ref="char:EOLhyphen"/>red thee up?</hi> Or is there a time wherein the Lord may be ſaid not to <hi>ſtir up?</hi> And if ſo, when may the Lord be ſaid to <hi>ſtir up</hi> wicked men to afflict his people, or when not?</p>
+            <p>
+               <hi>Anſ.</hi> It is true, that at no time do the wicked lift up their
+<pb n="5" facs="tcp:160388:5"/>hand of Gods people,
+<note place="margin">Iſai. 10.15.</note> but Gods hand ſtirs them up to the action; as the Ax cannot hew, unleſſe it be acted by the hand. Yet ſometimes God is not ſaid to <hi>ſtir up,</hi> as at other times: And that is, when there appears no external immediate cauſe moving a man to this or that action, then the Lord comes in for the immediate moving cauſe of it, and not man: as <hi>Exod.</hi> 21.13. And therefore in this place, the queſtion is put, <hi>If the Lord ſtirred up Saul,</hi> or, <hi>If the children of men did it.</hi> If the children of men were the immediate moving cauſe, in ſtir<g ref="char:EOLhyphen"/>ring up <hi>Saul</hi> to perſecute <hi>David,</hi> then the Lord cannot be ſaid to be the immediate moving cauſe. Where then there appears no other external cauſe moving, then is God the mover, and owns the action, as here, both in relation to <hi>Saul,</hi> in judge<g ref="char:EOLhyphen"/>ment, and to <hi>David,</hi> for chaſtiſement. And therefore <hi>David</hi> addeth here, <hi>If the Lord bath ſtirred thee up againſt me, let him accept an offering.</hi> As if he ſhould have ſaid, Though thou, <hi>Saul,</hi> haſt no cauſe thus to purſue me, yet true it is (if the Lord ſhall ſtrictly examine my carriage towards him, he may finde matter to provoke him to ſet thee on, as a fierce lion, to tear me in pieces. But, if ſo, that he have a quarrel againſt me, <hi>let him accept a
+<note n="*" place="margin">Weich was a Levitical ex<g ref="char:EOLhyphen"/>piation, typing out the true Sacrifice of Chriſt, the one Propitia<g ref="char:EOLhyphen"/>tory for ſin, 1 Joh. 2.2.</note> ſacrifice, or offering at my hand.</hi> But a<g ref="char:EOLhyphen"/>gainſt thee, O King, I have not tranſgreſſed, that I ſhould ask pardon of the Lord for it; but herein I appeal to his juſtice, <hi>to
+<note n="*" place="margin">Pſal. 7.8. ſee the title of the Pſalm, in refe<g ref="char:EOLhyphen"/>rence to <hi>Sauls</hi> quarrel againſt <hi>David.</hi>
+                  </note> judge me according to my righteouſneſſe, and according to mine innocency that is in me.</hi>
+            </p>
+            <p>Now touching the ſecond branch: <hi>But if they be the chil<g ref="char:EOLhyphen"/>dren of men that have ſtirred thee up againſt me, curſed be they before the Lord. Children of men</hi> are ſo named here, as being oppoſers and oppreſſours of the <hi>children of God.</hi> So <hi>David</hi> complained, when he <hi>fled from Saul,</hi> Pſal. 57.4. Such <hi>chil<g ref="char:EOLhyphen"/>dren of men</hi> then, as either <hi>ſtir up</hi> others, or do themſelves per<g ref="char:EOLhyphen"/>ſecute the <hi>children of God,</hi> they ſhew themſelves to be therein no other then the <hi>children of men,</hi> not the <hi>children of God.</hi> Nor doth this excuſe <hi>Saul,</hi> that he was egged to this by any of his <hi>Doegs,</hi> or flattering ſycophantizing Courtiers. Kings will never want bad Councellours, if they be bad themſelves. <hi>If a Ruler hearken to lyes</hi> (Prov. 29.12.) <hi>all his ſervants are wicked.</hi> If <hi>Saul</hi> were led by bad Councellours, he might
+<pb n="6" facs="tcp:160388:6"/>thank himſelf, that either his example led them to it, or that he was led by them. <hi>Ahab</hi> followed <hi>Jezebels</hi> counſel to get <hi>Na<g ref="char:EOLhyphen"/>boths</hi> life and vineyard, and that by an hypocritical way of a Faſt: But both he, and ſhe, and their houſe, and Kingdom paid dearly for it. <hi>Adam</hi> lays the fault on his wife, and ſhe on the Serpent: the Serpent is curſed, but they eſcaped not ſcot-free, ſo as the earth became accurſed for their ſakes. So here is a curſe imprecated upon thoſe <hi>children of men</hi> that <hi>ſtir<g ref="char:EOLhyphen"/>red up Saul</hi> to perſecute <hi>David:</hi> But did not this <hi>Curſe</hi> in<g ref="char:EOLhyphen"/>volve <hi>Saul</hi> too? Did not the Lord forſake him? No <hi>Samuel</hi> now to pray for him, being before his death
+<note n="*" place="margin">1 Sam. 16.1.</note> forbid any lon<g ref="char:EOLhyphen"/>ger <hi>to mourn for him,</hi> as being <hi>rejected of God.</hi> And henceforth he proceeds from evil to worſe and worſe. Now the
+<note n="*" place="margin">Verſ. 14.</note> 
+               <hi>Spirit of the Lord</hi> for the government of his kingdom <hi>departeth from him, and an evil ſpirit from the Lord troubled him.</hi> Now,
+<note n="*" place="margin">1 Sam. 28.6.</note> when he <hi>enquired of the Lord, the Lord anſwered him not, nei<g ref="char:EOLhyphen"/>ther by dreams, nor by <g ref="char:V">Ʋ</g>rim, nor by Prophets.</hi> Then,
+<note n="*" place="margin">Verſ. 7.</note> he ſends to ſeek out a <hi>Witch,</hi> to enquire of her. And all along, he ſtands to none of his promiſes and oathes made to <hi>David,</hi> but purſues him continually to make an end of him. And in the end he falls by the Army of the uncircumciſed <hi>Philistines,</hi> and being ſore wounded, he deſperately fell upon his own ſword, and ſo died.</p>
+            <p>
+               <hi>Object.</hi> But <hi>David</hi> was a Prophet, and ſo might impre<g ref="char:EOLhyphen"/>cate ſuch a curſe, which upon like occaſions we have not the like warrant ſo to do.</p>
+            <p>
+               <hi>Anſw.</hi> Nor need we. This curſe is not taken off the file, but ſtands in force ſtill, and is recorded <hi>to admoniſh us, upon whom the ends of the world are come.</hi> If we counſel others to evil, or if we follow others counſel to do evil, both fall under the ſame curſe, under the ſame condemnation.</p>
+            <p>But now what or whom doth all this concern? Or what is it to this famous City, as to thoſe whoſe Body Repreſenta<g ref="char:EOLhyphen"/>tive (as themſelves hold) the Common Councel, this ſhould be inſcribed? Certainly much, every manner of way. Shall I deal clearly? Surely I muſt: Otherwiſe, I ſhould neither fear God, nor love you, nor deſire the honour and ſafety of this City. Which God forbid. It was ſaid of old of <hi>Judah,
+<pb n="7" facs="tcp:160388:6"/>
+                  <note n="*" place="margin">Jer. 17.1.</note> The ſin of Judah is with a pen of iron, and with the point of a diamond.</hi> O that it might not be ſaid ſo of <hi>London!</hi> But is not the ſin of <hi>London</hi> written, publiſhed, and made conſpicu<g ref="char:EOLhyphen"/>ous in the eyes of all the world? I beſeech you conſider what you have done. Read over again, and ponder well thoſe fre<g ref="char:EOLhyphen"/>quent preſſings, importune Petitions, Remonſtrances, Repre<g ref="char:EOLhyphen"/>ſentations, what daily purſuance of them to the Two Houſes of Parliament, wherein, among many good things, you were ſo importunate to have thoſe Worthies of our Nation (whoſe endeavours God hath crowned with ſo many glorious Victo<g ref="char:EOLhyphen"/>ries over potent enemies) to be trampled under feet, abaſed, diſgraced, caſt out of all Places of honour, credit, or truſt, either in Church or Common-weal, and to be for ever diſa<g ref="char:EOLhyphen"/>bled and made uncapable thereof, who have from the firſt to this day all along ſhewed themſelves ſo faithful, affectionate, valiant, and prodigal of their deareſt lives, and all to deliver this City and Kingdom from becoming a ſpoil and prey to thoſe, who had long ago, in their enlarged and inſatiable de<g ref="char:EOLhyphen"/>ſires, ſwallowed up <hi>London</hi> at a morſel. And your caſting out of Common-Councel and <hi>Militia</hi> ſundry honeſt men, for no other known cauſe, but becauſe honeſt, as a leading caſe to the Parliament to do the like, is of the ſame nature with the former. But whence is this? or what heathen ſto<g ref="char:EOLhyphen"/>ries or Turkiſh hiſtories can furniſh us with any ſuch exam<g ref="char:EOLhyphen"/>ples as theſe? Certainly the Grecian
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> a Law, by votes or little ſhells put into a pot, for the baniſh<g ref="char:EOLhyphen"/>ment of their moſt famous Worthies for ten yeers, as <hi>Ariſtides, Ca<g ref="char:EOLhyphen"/>millus,</hi> &amp;c.</note> 
+               <hi>Oſtraciſmon</hi> is no way parallel, being a Law to baniſh ſome one in the City, eminent for his vertues, as <hi>Ariſtides,</hi> for ten yeers. How is it poſſible then, that ſuch things ſhould proceed from men profeſſing to be Chriſtians? Certainly they could not come from men that had but humane Principles; much leſſe from the Common-Councel of ſo famous a City as <hi>London</hi> is. 'Tis true indeed, and is not denied, that you have acted theſe things, and have owned them. But I beſeech you, were there no <hi>children of men</hi> that have <hi>ſtirred you up</hi> to theſe things. No nocturnal Conclaves whence theſe counſels ſprung? Certainly, who<g ref="char:EOLhyphen"/>ever they be (and you know beſt) though they be in as high eſteem with you, as if they were Angels of light, or Oracles from heaven, yet (by thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Scripture) <hi>curſed they are before the
+<pb n="8" facs="tcp:160388:7"/>Lord,</hi> becauſe they have inſtigated you to <hi>remonſtrate</hi> and <hi>re<g ref="char:EOLhyphen"/>preſent</hi> the faithful in the Land, and the Preſervers of <hi>Iſrael</hi> (ſuch as <hi>David</hi> was) odious and vile to the Parliament, there<g ref="char:EOLhyphen"/>by to bring that <hi>Body Repreſentative,</hi> and ſo the whole Body of the Land, under a moſt damnable guilt of unnatural ingra<g ref="char:EOLhyphen"/>titude, and diabolical malice, in driving thoſe our brethren and benefactors <hi>from abiding in the inheritance of the Lord,</hi>
+               <note place="margin">1 Sam. 16.19.</note> as <hi>Saul,</hi> with his <hi>children of men,</hi> did <hi>David,</hi> which wrapped them all in the <hi>Curſe.</hi>
+            </p>
+            <p>Now what is to be done, that (if poſſible) this curſe may be removed, and the ſin expiated? Some, perhaps, will ſay, that no doubt thoſe concerned in the ſaid Remonſtrance or Repreſentation, are now well ſatisfied, the City and Army do well accord together, and do both joyntly ſtand for Juſtice; and the <hi>Common-Councel</hi> hath in a late <hi>Petition</hi> deſired, that, <hi>ſatisfaction being made by Delinquents, an Act of Amneſtia or Oblivion may be paſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and confirmed, for an utter abolition and final reconcilement of all parties and differences, for ſetling of peace, love and unity among the ſubjects of this Kingdom.</hi> A bleſſed <hi>Petition.</hi> But, dear Chriſtians, there is one thing re<g ref="char:EOLhyphen"/>mains to be done, beſides this peace, love, and unity among our ſelves, and with men; and that is, our peace with God: otherwiſe, as <hi>Jehu</hi> ſaid to <hi>Jehoram, What Peace?</hi> Certainly God requires this of you, the <hi>Common-Councel</hi> of <hi>London,</hi> for that which you have done againſt your brethren in the Army, and elſewhere (onely becauſe in point of judgement they differ from you, though they have hazarded their lives for you) which as it is a high breach of charity, and an unſampled in<g ref="char:EOLhyphen"/>gratitude, ſo it is moſt odious and abominable before God, whoſe Juſtice and Wrath, if not appeaſed by faith in Chriſt, accompanied with ſyncere Repentance, and publike Humilia<g ref="char:EOLhyphen"/>tion, will undoubtedly (if Gods Word be true concerning <hi>Saul,</hi> and other in the like caſe) break forth upon you and your Councellours, yea upon City and Kingdom: For
+<note n="*" place="margin">Gal. 6.</note> 
+               <hi>God is not mocked: for whatſoever a man ſoweth, that ſhall he reap.</hi> In King <hi>Davids</hi> time,
+<note place="margin">2 Sam. 21.</note> 
+               <hi>a famine of three <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rs was in the Land.</hi> For what cauſe? <hi>David enquires of the Lord,</hi> and <hi>the Lord anſwered, It is for Saul, and for his bloody houſe, becauſe be ſlew
+<pb n="9" facs="tcp:160388:7"/>the Gibeonites.</hi> Why? <hi>Saul</hi> was now dead; and doth the Lord now under <hi>Davids</hi> Raign puniſh <hi>Iſrael</hi> for <hi>Sauls</hi> ſin? Yes: Gods forbearance is no forgiveneſſe, his patience is no payment. And though <hi>Saul</hi> was dead yet <hi>Iſrael</hi> being acceſ<g ref="char:EOLhyphen"/>ſory to <hi>Sauls</hi> ſin, God puniſheth them. And becauſe <hi>Saul ſlew</hi> the <hi>Posterity</hi> of the <hi>Gibeonites,</hi> God now requires it at the hands of <hi>Sauls Poſterity.</hi> The <hi>Gibeonites</hi> demand of <hi>David ſeven of Sauls ſons</hi> to be <hi>hanged,</hi> which is granted. But why ſhould all this ado be for the <hi>Gibeonites?</hi> for theſe <hi>Gibeon<g ref="char:EOLhyphen"/>ites</hi> were not of the children of <hi>Iſrael,</hi> but a remnant of the Amorites. I, but the children of <hi>Iſrael</hi> had ſworn unto them. Now obſerve it well: As <hi>Saul in his zeal for the chil<g ref="char:EOLhyphen"/>dren of Iſrael</hi> ſlew the Gibeonites; ſo the Lord, now in his <hi>zeal,</hi> both puniſheth the <hi>children of Iſrael</hi> with <hi>three yeers fa<g ref="char:EOLhyphen"/>mine,</hi> and ſlayeth ſeven of <hi>Sauls</hi> ſons for <hi>ſatisfaction</hi> to the <hi>Gi<g ref="char:EOLhyphen"/>beonites.</hi> Now if the Lord were ſo zealous and exact in his Juſtice in ſo puniſhing <hi>Sauls</hi> ſinful zeal, and avenging the ſlaughter of the Gibeonites, though aliens in <hi>Iſrael;</hi> what impunity can they look for at the hands of the righteous God, who (out of what zeal ſoever, be it for thoſe new lords to be ſet over them, as the peoples zeal was to have <hi>Saul</hi> for their King, rather then the Lord, 1 <hi>Sam.</hi> 8.7.) are ſo extremely injurious and oppreſſive, and that to their brethren, their own natural Country-men, yea perhaps kindſmen too, and (that which is above all other relations) their preſervers and deli<g ref="char:EOLhyphen"/>verers from utter ruine and deſtruction of them and theirs, and that with the extreme hazard of their own lives, interpo<g ref="char:EOLhyphen"/>ſing their bodies between the City and utmoſt imminent mor<g ref="char:EOLhyphen"/>tal deſtructive danger, and that in a juncture of time when the enemy was in the top of his ſtrength, and in the ruff of his jollity, fully reſolving the day was his, before it dawned; and on the other ſide, our Army conſiſting of raw Souldiers, and no leſſe raw Offices, was at the loweſt ebbe, and given for loſt, as men that durſt not engage, and whom the enemy ſuppoſed would rather flee then fight: ſo injurious (I ſay) as to go about, in ſtead of putting at leaſt Lawrel Crowns upon their heads, to make them level with the Gibeonites, to pur<g ref="char:EOLhyphen"/>chaſe their lives with being <hi>hewers of wood and drawers of wa<g ref="char:EOLhyphen"/>ter
+<pb n="10" facs="tcp:160388:8"/>to the whole</hi> Nation, as glad that they may but breathe in the common air, and live of a morſel of bread, to lengthen their miſerable lives, ſo much worſe then death, by how much theſe are men of a more noble and heroick ſpirit, then ſo dearly to prize a moſt ignominious life, after ſo many large proffers of their deareſt blood to purchaſe a moſt glorious death. No greater injury nor indignity can be done to well<g ref="char:EOLhyphen"/>deſerving Vertue, then to recompence it with impious Scorn. <hi>David</hi> would not ſuffer thoſe Worthies of his to be ſent back with diſgrace,
+<note place="margin">1 Sam. 10.</note> with <hi>their beards half ſhaven, and their gar<g ref="char:EOLhyphen"/>ments cut off to their huttocks</hi> by <hi>Hanun</hi> the <hi>Ammonite,</hi> to whom he had ſent to congratulate his new Crown,
+<note place="margin">2 Sam. 12.26-31.</note> but to revenge ſuch an indignity, gathered an Army, wherewith he brought under the proud Ammonite, ſo as he took his Royal City, and the Crown from his head, and put the people under ſawes, and under harrows of iron, and made them paſſe tho<g ref="char:EOLhyphen"/>row the brick-kiln; and thus did he to all the Cities of the children of <hi>Ammon:</hi> and all this (I ſay) for one diſgrace put upon <hi>Davids</hi> ſervants, though new garments and their new grown beards might ſeem to heal all again. And will not our <hi>David,</hi> Jeſus Chriſt (trow you) avenge ſuch hor<g ref="char:EOLhyphen"/>rible indignities as your Remonſtrances and Repreſentations have caſt upon his Worthies, and ſuch as have done more for you then a complement; and ſo much the more, when the diſgraces put upon them reflect upon himſelf, whoſe power and goodneſſe hath by them, as his ſervants and inſtruments, atchieved ſo great things for you, the City, Kingdom, Parlia<g ref="char:EOLhyphen"/>ment? Could any thing have been invented more diſhonou<g ref="char:EOLhyphen"/>rable to Chriſt, and more darkening the bright beams of his glory ſhining forth in thoſe famous acts of his, wrought by this Army, then thu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, not onely to bury ſuch glory under an infamous act of eternal oblivion, but to brand thoſe ſervants of his with the Thracian notes of perpetual villainage? Nor do I, but the thing it ſelf ſpeak and proclaim this. Your Remonſtrance and Repreientation are extant to all the world.</p>
+            <p>But what might be the cauſe of all this calamity? A mon<g ref="char:EOLhyphen"/>ſtrous conception ſure, that brings forth ſuch a monſtrous
+<pb n="11" facs="tcp:160388:8"/>birth. Why, the reaſon is (were there any reaſon at all in it) that thoſe Worthies of the Army do not in all things concur in their judgements with you (I would ſay, with your Teach<g ref="char:EOLhyphen"/>ers, whoſe judgement is yours) about the things controverted at this day, touching Chriſts Spiritual Kingdom, while they would rack mens Conſciences to conform to ſuch a <hi>Church-Government</hi> as they are never able (for all their titular <hi>Jus divinum)</hi> to make out from Scripture-evidence. So as ſuch forcing of the Conſcience (otherwiſe informed and per<g ref="char:EOLhyphen"/>ſwaded by the Word of God) as it is a horrible violation of our late <hi>Solemn Covenant</hi> for a <hi>Reformation</hi> in all things <hi>accor<g ref="char:EOLhyphen"/>ding to the Word of God;</hi> ſo it is no leſſe <hi>Antichriſtian Tyran<g ref="char:EOLhyphen"/>ny</hi> over mens ſouls, then that which the <hi>Pope</hi> and <hi>Prelates</hi> have exerciſed over us, if not worſe,
+<note place="margin">Jer. 28.13.</note> when the <hi>woodden yokes</hi> of the <hi>Prelates</hi> being broken, ſeem now to be turned and mul<g ref="char:EOLhyphen"/>tiplied into many thouſand <hi>yokes of iren.</hi> Conſider therefore, ye worthy <hi>Citizens,</hi> whether it was not the very ſpirit of Antichriſt breathed upon you by thoſe who have changed the name, but not the nature of Prelatical Uſurpation, that hath thus impoſed upon your facile Credulity, begotten of your high opinion of them, to undertake ſuch a horrid attempt for the perpetual enthralling and vaſſalizing of both ſouls and bo<g ref="char:EOLhyphen"/>dies of thoſe who have been your Deliverers, and who have abundantly proved themſelves to be (next under God) the beſt and faithfulleſt friends that either you, or the City, or our native Country of <hi>England</hi> have in all the world at this day.</p>
+            <p>Therefore, moſt dear Citizens and Country-men,
+<note place="margin">Acts 3.13, 14<g ref="char:punc">▪</g> 15, 17.</note> let me uſe the Apoſtle's words to you, which he did to thoſe that had (through the ſubornation of their Synedrion, the Prieſts and Phariſees) by their lond Vote, <hi>Crucifigs, Crucifige, killed the Prince of life,</hi> ſaying, <hi>Now brethren, I wot that through igno<g ref="char:EOLhyphen"/>rance ye did it, as did alſo your Rulers.</hi> And certainly (I af<g ref="char:EOLhyphen"/>firm it again and again) never could your own genius (being ingenuous men, and of a generous breeding and education) ever have led you into ſuch a miſerable Maze, had not your o<g ref="char:EOLhyphen"/>ver-credulous hearkning to ſome other's Counſel, enſnared your over-confident preſuming on ſome ſuppoſed good in it,
+<pb n="12" facs="tcp:160388:9"/>(as <hi>Eve,</hi> through the Serpents ſubtilty, ſuppoſed to be in the eat<g ref="char:EOLhyphen"/>ing of the forbidden tree) ſo leading your harmleſſe intentions captive at their will, to be the inſtruments of ſerving their un<g ref="char:EOLhyphen"/>godly &amp; unnatural deſigne. Let me therefore adde, and apply to you (as the moſt ſoveraign and onely remedy to cure the wound of your conſcience before God, and of your honour with men) that exhortation of the Apoſtle, <hi>Acts</hi> 3.19. <hi>Repent ye there<g ref="char:EOLhyphen"/>fore, and be converted, that your ſin may be blotted out, when the time of refreſhing ſhall come from the preſence of the Lord.</hi> Make your peace with God, and ſo with your own conſcience, as well as with men; and for that end, petition the Parliament for a Solemn and Publike Faſt-day, wherein your humble and ſyncere confeſſion before all, may ſtop the mouth of ſo crying a ſin, that God may have his glory, and you his mercy, and both Parliament, City and Country impunity, eſpecially whoſe ſpirits ſhall ſympa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hize, and bear a part with you, and chiefly thoſe, who have had the prime ſhare with you in the ſin, either in counſelling you to it, or not deterring you from it (for either of theſe ways the ſin is theirs, <hi>Ezek.</hi> 3.18, 19. <hi>Matth.</hi> 5.19.) that ſo they may be the firſt to ſhare in the ſhame, and your ſelves not the laſt.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
